@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #d8dfea;
+}
+
+h1 {
+    border: 2px solid #3b5998;
+    text-align: center;
+}
+
+h2 {
+    border: 2px solid #6d84b4;
+    text-align: center;
+    width: 50%;
+}
+
+p {
+    color: #616771;
+}
+
+strong {
+    color: #3b5998;
+}
+
+.gol {
+    border: 2px solid #04548c;
+    width: 50%;
+}
+
+.tipos-futbol {
+    background-color: #3b5998;
+    color: white;
+    width: 50%;
+    text-align: center;
+}
+
+#fifa-imagen {
+    border: 5px solid #6d84b4;
+    border-radius: 10px;
+}
+
+#enlace {
+    text-decoration: none;
+    color:#3b5998;
+}
