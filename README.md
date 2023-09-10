@@ -1,4 +1,4 @@
-# Tarea - Página HTML Básico
+# Tarea - Página HTML Básico / CSS Básico
 
 ---
 
